@@ -1,2 +1,3 @@
 a new file..Changed a little bit.
 Adding a new string.A third line.
+A new line.
