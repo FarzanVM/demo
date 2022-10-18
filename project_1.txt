@@ -1,1 +1,2 @@
-a new file..Changed a little bit
+a new file..Changed a little bit.
+Adding a new string.
